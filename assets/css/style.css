@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.nav ul{
+    color: black;
+}
+
+
+
+.card-body a{
+    color:white;
+    background-color: navy;
+    /*background-color: rgba(0,0,0,0.3);*/
+}
+
+/*------------------------------Home----------------------------------*/
+
+.test1:hover
+{
+
+    background-color: #052c65;
+    border-style: solid;
+    border-color : white;
+    box-shadow: 2px 1px 2px 1px blue;
+}
+
+
+
+.btn1{
+    background-color: #052c65;
+    color: white;
+}
+.btn1:hover{
+    background-color: black;
+    color: white;
+}
+
+
+
+/*------------------------------Home----------------------------------*/
+
+/*.....................navbar .....................................*/
+
+.navbar-brand img
+{
+    height: 50px;
+}
+
+.nav-link:hover {
+    background-color:yellow;
+    color:black;
+    border-radius: 10px;
+    box-shadow: 2px 1px 2px 1px green;
+}
+
+.my-hover:hover
+{
+    color: white;
+}
+
+
+.my-caption
+{
+    background-color: #343a40;
+    background-color: rgba(0,0,0,0.3);
+}
+.my-caption p{
+    text-align: justify ;
+    padding: 0 4% 0 4% ;
+}
+
+.my-caption h1{
+    text-transform: capitalize;
+    text-decoration-line: underline;
+}
+
+.border
+{
+    border: navy;
+}
+
+.btn{
+    color: white;
+    background-color: #343a40;
+    background-color: rgba(0,0,0,0.2);
+}
+/*---------------------------------------end--------------------------*/
+
+/*---------------------------------------contact us-------------------*/
+
+.card-header
+{
+    text-align: center;
+     color:black ;
+}
+
+/*---------------------------------------contact us end-------------------*/
+
+/*---------------------------------------Gallery-------------------*/
+
+.test:hover
+{
+
+   border-style: solid;
+   border-color : darkblue;
+    box-shadow: 5px 10px 5px 10px blue;
+
+}
+
+
+/*---------------------------------------Gallery end-------------------*/
+
